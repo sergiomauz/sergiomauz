@@ -1,8 +1,8 @@
 <p align="center">
-  <a href="https://twitter.com/sergiomauz"><img src="https://raw.githubusercontent.com/abdelp/abdelp/master/twitter.svg" alt="twitter logo" height="20"></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/sergiomauz/"><img src="https://raw.githubusercontent.com/abdelp/abdelp/master/linkedin.svg" alt="linkedin logo" height="20"></a>&nbsp;&nbsp;
-  <a href="mailto:sergio.mauz88@gmail.com"><img src="https://raw.githubusercontent.com/abdelp/abdelp/master/gmail.svg" alt="gmail logo" height="20"></a>&nbsp;&nbsp;
-  <a href="https://www.szetapp.com/"><img src="https://raw.githubusercontent.com/abdelp/abdelp/master/stack-overflow.svg" alt="portfolio logo" height="20"></a>&nbsp;&nbsp;
+  <a href="https://twitter.com/sergiomauz"><img src="https://raw.githubusercontent.com/sergiomauz/sergiomauz/master/img/twitter.svg" alt="twitter logo" height="20"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/sergiomauz/"><img src="https://raw.githubusercontent.com/sergiomauz/sergiomauz/master/img/linkedin.svg" alt="linkedin logo" height="20"></a>&nbsp;&nbsp;
+  <a href="mailto:sergio.mauz88@gmail.com"><img src="https://raw.githubusercontent.com/sergiomauz/sergiomauz/master/img/gmail.svg" alt="gmail logo" height="20"></a>&nbsp;&nbsp;
+  <a href="https://www.szetapp.com/"><img src="https://raw.githubusercontent.com/sergiomauz/sergiomauz/master/img/www.svg" alt="portfolio logo" height="20"></a>&nbsp;&nbsp;
 </p>
 
 ## Hi there nice people👋, I'm <a href="https://www.linkedin.com/in/sergiomauz/">Sergio Mauricio Zambrano</a>!
