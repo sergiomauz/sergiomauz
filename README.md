@@ -11,7 +11,7 @@
 ## About me
 
 <p>💻 Full-Stack Developer. I started my career in 2012.</p>
-<p>🎓 M.Sc. in Computer Science. IT Management.</p>
+<p>🎓 M.Sc. in Computer Science, with mention in IT Management.</p>
 <p>🤖 Master in Artificial Intelligence student. I started my studies in 2024 and hope to finish in 2026.</p>
 <p>👍 Hands-on experience with Microsoft technologies (C#, SQL Server, Windows Server, etc).</p>
 <p>🧠 My skills includes.</p>
