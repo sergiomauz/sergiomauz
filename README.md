@@ -16,25 +16,25 @@
 <p>👍 Hands-on experience with Microsoft technologies (C#, SQL Server, Windows Server, etc).</p>
 <p>🧠 Currently studying algorithms and data structures with C#, Ruby and Javascript.</p>
 <p>
-  My skills includes:
+  **My skills includes**
   
-- **Programming Languages:** C# | Python | Ruby
+- **Programming Languages:** C# | Python | Ruby | Java
   
-- Backend: Asp .Net | Flask | FastApi | Rails
+- **Backend:** Asp .Net | Winforms | Flask | FastApi | Rails | Spring
   
-- Frontend: HTML | CSS | JavaScript | TypeScript | JQuery | Angular | Blazor
+- **Frontend:** HTML | CSS | JavaScript | TypeScript | JQuery | Angular | React | Blazor
   
-- Databases: MS SQL Server | PostgreSQL | MySQL | SQLite | Mongo DB
+- **Databases:** MS SQL Server | PostgreSQL | MySQL | SQLite | Mongo DB
   
-- Testing: xUnit | Pytest | Jest | RSpec | Postman | Cypress.IO | JMeter
+- **Testing:** xUnit | Pytest | Jest | RSpec | Postman | Cypress.IO | JMeter
   
-- Cloud: AWS | Microsoft Azure
+- **Cloud:** AWS | Microsoft Azure
   
-- Tools: Git | Docker | OpenAPI | SonarQube | Microcks | Apicurio | RabbitMQ
+- **Tools:** Git | Docker | OpenAPI | SonarQube | Microcks | Apicurio | RabbitMQ
   
-- ERP: Odoo 16, 17, 18
+- **ERP:** Odoo 16, 17, 18
   
-- Others: Remote Pair-Programming | Teamwork | Problem-Solving | Clean Code | Clean Architecture.
+- **Others:** Remote Pair-Programming | Teamwork | Problem-Solving | Clean Code | Clean Architecture.
   
 </p>
 
