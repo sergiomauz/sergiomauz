@@ -16,7 +16,9 @@
 <p>👍 Hands-on experience with Microsoft technologies (C#, SQL Server, Windows Server, etc).</p>
 <p>🧠 Currently studying algorithms and data structures with C#, Ruby and Javascript.</p>
 <p>
-- Programming Languages: C# | Python | Ruby
+  My skills includes:
+  
+- **Programming Languages:** C# | Python | Ruby
   
 - Backend: Asp .Net | Flask | FastApi | Rails
   
