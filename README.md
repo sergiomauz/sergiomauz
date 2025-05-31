@@ -17,14 +17,23 @@
 <p>🧠 Currently studying algorithms and data structures with C#, Ruby and Javascript.</p>
 <p>
 - Programming Languages: C# | Python | Ruby
+  
 - Backend: Asp .Net | Flask | FastApi | Rails
+  
 - Frontend: HTML | CSS | JavaScript | TypeScript | JQuery | Angular | Blazor
+  
 - Databases: MS SQL Server | PostgreSQL | MySQL | SQLite | Mongo DB
+  
 - Testing: xUnit | Pytest | Jest | RSpec | Postman | Cypress.IO | JMeter
+  
 - Cloud: AWS | Microsoft Azure
+  
 - Tools: Git | Docker | OpenAPI | SonarQube | Microcks | Apicurio | RabbitMQ
+  
 - ERP: Odoo 16, 17, 18
+  
 - Others: Remote Pair-Programming | Teamwork | Problem-Solving | Clean Code | Clean Architecture.
+  
 </p>
 
 
