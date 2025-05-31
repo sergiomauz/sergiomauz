@@ -11,11 +11,21 @@
 ## About me
 
 <p>💻 Full-Stack Developer. I started my career in 2012.</p>
+<p>🎓 M.Sc. in Computer Science. IT Management.</p>
+<p>🤖 Master in Artificial Intelligence student. I started my studies in 2024 and hope to finish in 2026.</p>
 <p>👍 Hands-on experience with Microsoft technologies (C#, SQL Server, Windows Server, etc).</p>
 <p>🧠 Currently studying algorithms and data structures with C#, Ruby and Javascript.</p>
-<p>⚙️ Most of my projects were made by doing remote pair programming.</p>
-<p>🎮 I love old videogames.</p>
-<p>💼 Looking for new opportunities. You can download my resume <a href="https://drive.google.com/file/d/1ikl22zQz_uESvgOOg6kMJRYXWCZdTRwe/view?usp=sharing">here</a>.</p>
+<p>
+- Programming Languages: C# | Python | Ruby
+- Backend: Asp .Net | Flask | FastApi | Rails
+- Frontend: HTML | CSS | JavaScript | TypeScript | JQuery | Angular | Blazor
+- Databases: MS SQL Server | PostgreSQL | MySQL | SQLite | Mongo DB
+- Testing: xUnit | Pytest | Jest | RSpec | Postman | Cypress.IO | JMeter
+- Cloud: AWS | Microsoft Azure
+- Tools: Git | Docker | OpenAPI | SonarQube | Microcks | Apicurio | RabbitMQ
+- ERP: Odoo 16, 17, 18
+- Others: Remote Pair-Programming | Teamwork | Problem-Solving | Clean Code | Clean Architecture.
+</p>
 
 
 ## My Stats
