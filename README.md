@@ -14,9 +14,8 @@
 <p>🎓 M.Sc. in Computer Science. IT Management.</p>
 <p>🤖 Master in Artificial Intelligence student. I started my studies in 2024 and hope to finish in 2026.</p>
 <p>👍 Hands-on experience with Microsoft technologies (C#, SQL Server, Windows Server, etc).</p>
-<p>🧠 Currently studying algorithms and data structures with C#, Ruby and Javascript.</p>
+<p>🧠 My skills includes.</p>
 <p>
-  **My skills includes**
   
 - **Programming Languages:** C# | Python | Ruby | Java
   
