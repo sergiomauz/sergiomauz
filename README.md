@@ -11,8 +11,8 @@
 ## About me
 
 <p>💻 Full-Stack Developer. I started my career in 2012.</p>
-<p>🎓 Master in Computer Science with mention in IT Management by National University of San Agustin - Arequipa.</p>
-<p>🤖 Student of the Master's degree in Artificial Intelligence. I hope to finish my second master in 2026.</p>
+<p>🎓 Master in Computer Science with mention in IT Management by National University of San Agustin - Arequipa, Peru.</p>
+<p>🤖 Student of Master's degree in Artificial Intelligence in National University of Engineering - Lima, Peru. I hope to finish my second master in 2026.</p>
 <p>👍 Hands-on experience with Microsoft technologies (C#, SQL Server, Windows Server, etc).</p>
 <p>🧠 My skills includes.</p>
 <p>
