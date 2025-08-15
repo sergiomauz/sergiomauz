@@ -11,19 +11,19 @@
 ## About me
 
 <p>💻 Full-Stack Developer. I started my career in 2012.</p>
-<p>🎓 Master in Computer Science, with mention in IT Management.</p>
-<p>🤖 Master in Artificial Intelligence student. I started my studies in 2024 and hope to finish in 2026.</p>
+<p>🎓 Master in Computer Science with mention in IT Management by National University of San Agustin - Arequipa.</p>
+<p>🤖 Student of the Master's degree in Artificial Intelligence. I hope to finish my second master in 2026.</p>
 <p>👍 Hands-on experience with Microsoft technologies (C#, SQL Server, Windows Server, etc).</p>
 <p>🧠 My skills includes.</p>
 <p>
   
-- **Programming Languages:** C# | Python | Ruby | Java
+- **Programming Languages:** C# | Python | Java | Ruby | JavaScript | TypeScript
   
-- **Backend:** Asp .Net | Winforms | Flask | FastApi | Rails | Spring
+- **Backend:** Asp .Net | Winforms | Flask | FastApi | Rails | Spring | GraphQL with Apollo Server
   
-- **Frontend:** HTML | CSS | JavaScript | TypeScript | JQuery | Angular | React | Blazor
+- **Frontend:** HTML | CSS | JQuery | Angular | React | Blazor
   
-- **Databases:** MS SQL Server | PostgreSQL | MySQL | SQLite | Mongo DB
+- **Databases:** MS SQL Server | PostgreSQL | MySQL | MariaDB | SQLite | Mongo DB | Cassandra
   
 - **Testing:** xUnit | Pytest | Jest | RSpec | Postman | Cypress.IO | JMeter
   
@@ -31,7 +31,7 @@
   
 - **Tools:** Git | Docker | OpenAPI | SonarQube | Microcks | Apicurio | RabbitMQ
   
-- **ERP:** Odoo 16, 17, 18
+- **ERP:** Odoo 16, 17, 18 Community Edition
   
 - **Others:** Remote Pair-Programming | Teamwork | Problem-Solving | Clean Code | Clean Architecture.
   
@@ -43,9 +43,3 @@
 | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiomauz" /> | <img src="https://github-readme-stats.vercel.app/api?username=sergiomauz&show_icons=true" alt="sergiomauz" />
 |---|---|
 
-
-## Visitor count
-
-<p> 
-  <img src="https://profile-counter.glitch.me/sergiomauz/count.svg" />
-</p>
